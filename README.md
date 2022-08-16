@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Fermín Schachner here!
+<h2>Full Stack Dev </h2>
+<h2>Tech Skills: </h2>
+<ul>
+  <li> JavaScript</li>
+  <li> ReactJs</li>
+  <li> NodeJs</li>
+  <li> Redux</li>
+  <li> React Native</li>
+  <li> Data Structures</li>
+  <li> HTML</li>
+  <li> CSS</li>
+  <li> Tailwind</li>
+  <li> Sequelize</li>
+  <li> PostgreSQL</li>
+  <li> Express</li>
+  </ul>
 
 <!--
 **fern1s/fern1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
