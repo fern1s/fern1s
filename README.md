@@ -15,6 +15,9 @@
   <li> PostgreSQL</li>
   <li> Express</li>
   </ul>
+ <p>I can speak and work fluently in English and Spanish</p>
+ <h3> Contacte me: </h3>
+ 
 
 <!--
 **fern1s/fern1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
