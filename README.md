@@ -1,4 +1,4 @@
-### Hi there 👋, Fermín Schachner here!
+<h1> Hi there 👋, Fermín Schachner here! </h1>
 <h2>Full Stack Dev </h2>
 <h2>Tech Skills: </h2>
 <ul>
