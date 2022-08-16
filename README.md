@@ -16,7 +16,11 @@
   <li> Express</li>
   </ul>
  <p>I can speak and work fluently in English and Spanish</p>
- <h3> Contacte me: </h3>
+ <h3> Contact me: </h3>
+ <ul>
+  <li>Linkedin: https://www.linkedin.com/in/fermin-schachner</li>
+  <li>Email: ferminsch0@gmail.com </li>
+  </ul>
  
 
 <!--
