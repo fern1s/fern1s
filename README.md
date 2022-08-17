@@ -15,8 +15,47 @@
   <li> PostgreSQL</li>
   <li> Express</li>
   </ul>
-  <h3>Some of my work: </h3>
- 
+  <h2>Some of my work: </h2>
+<h3> World-Game</h3>  
+
+~~~
+⚡ Final group project of Bootcamp Henry ⚡ 
+I worked as Front-End & Mobile Developer. 
+
+The project has a mobile version, a web version and an administrator panel.
+
+Tech Utils:
+🎮 Database: PostgreSQL
+🎮 Back-End: NodeJs, Express, Sequelize
+🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
+🎮 Additional Libraries: 
+✔ Socket-IO (Integrated chat)
+✔ Chart.js (Real-time graphs)
+✔ Stripe (Payment gateway)
+✔ Cloudinary (Upload profile picture)
+✔ Nodemailer (Sending of mails)
+~~~
+<h2><center>Mobile Game</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./pfworldgame/login.jpg' />
+<img align="center" width="400px" src='./pfworldgame/game.jpg' />
+</p>
+<p align="center">
+<img align="center" width="400px" src='./pfworldgame/ranking.jpg' />
+<img align="center" width="400px" src='./pfworldgame/perfil.jpg' />  
+</p>
+<h2><center>Administrator Panel</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./pfworldgame/homeadmin.jpg' />
+<img align="center" width="400px" src='./pfworldgame/useradmin.jpg' />
+</p>
+<p align="center">
+<img align="center" width="400px" src='./pfworldgame/gamesadmin.jpg' />
+<img align="center" width="400px" src='./pfworldgame/paymentadmin.jpg' />  
+</p>
+<p align="center">
+<img align="center" width="400px" src='./pfworldgame/reviewadmin.jpg' />
+</p>
  <h3> Contact me: </h3>
  <ul>
   <li>Linkedin: https://www.linkedin.com/in/fermin-schachner</li>
@@ -24,18 +63,4 @@
   </ul>
  
 
-<!--
-**fern1s/fern1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
