@@ -1,5 +1,5 @@
 <h1> Hi there 👋, Fermín Schachner here! </h1>
-<h2>Full Stack Dev </h2>
+<p>I´m an argentinian Full Stack Developer, with academic experience in web and app developtment. I can speak and work fluently in English and Spanish.</p>
 <h2>Tech Skills: </h2>
 <ul>
   <li> JavaScript</li>
@@ -15,7 +15,8 @@
   <li> PostgreSQL</li>
   <li> Express</li>
   </ul>
- <p>I can speak and work fluently in English and Spanish</p>
+  <h3>Some of my work: </h3>
+ 
  <h3> Contact me: </h3>
  <ul>
   <li>Linkedin: https://www.linkedin.com/in/fermin-schachner</li>
